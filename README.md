@@ -8,7 +8,6 @@ We are upgrading Pump.fun.
 Please leave any ideas and bugs on the issues.
 
 ---
-
 ## 📋 **Pump.FunOverview**  
 
 #create token and create bonding curve account
